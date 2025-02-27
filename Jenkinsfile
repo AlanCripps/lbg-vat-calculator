@@ -1,6 +1,6 @@
 pipeline{
  environment {
- registry = "AlanCripps/mycalc"
+ registry = "alancripps/mycalc"
         registryCredentials = "dockerhub_id"
         dockerImage = ""
     }
